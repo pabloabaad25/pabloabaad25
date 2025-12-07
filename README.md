@@ -34,10 +34,3 @@
 - 🤝 **LinkedIn:** <a href="https://linkedin.com/in/www.linkedin.com/in/pablo-abad-ortega-27236a397" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 
 ---
-
-<h2 align="center">📊 Mis Estadísticas en GitHub (Opcional)</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pabloabaad25&show_icons=true&locale=es&layout=compact" alt="Lenguajes principales" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pabloabaad25&show_icons=true&locale=en" alt="Estadísticas de perfil" />
-</p>
