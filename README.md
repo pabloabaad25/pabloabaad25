@@ -64,18 +64,11 @@
 <div align="center">
 
   <p>
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=pabloabaad25&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloabaad25&layout=compact&hide_border=true&theme=radical" alt="Top languages" />
-  </p>
-
-  <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=pabloabaad25&hide_border=true&theme=radical" alt="GitHub streak" />
   </p>
 
   <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=pabloabaad25&theme=radical&no-frame=true&row=1&column=6&margin-w=10" alt="Trophies" />
-    </a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pabloabaad25&theme=rogue&hide_border=true&area=true" alt="Contribution Graph" />
   </p>
 
 </div>
