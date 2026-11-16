@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi, I'm Pablo Abad 👋</h1>
+  <h1>BUENAS, SOY PABLO!</h1>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FE428E&center=true&vCenter=true&width=620&lines=Game+Developer+%F0%9F%8E%AE;Multiplatform+Apps+Student+(DAM);Unity+6+%7C+C%23+%7C+2D+Pixel+Art" alt="Typing intro" />
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 About Me
+## SOBRE MI
 
 - 🎮 **Role:** Game Developer & Multiplatform Apps (**DAM**) student at **La Salle Girona**.
 - 🔭 **Working on:** **[Entre Dos Mons](https://github.com/pabloabaad25/PAGINA-WEB-PROYECTO-FINAL)** and **PC Pixel Studio**.
@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## LENGUAJES Y HERRAMIENTAS
 
 <table align="center">
   <tr>
@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 ESTADISTICAS GITHUB
 
 <div align="center">
 
